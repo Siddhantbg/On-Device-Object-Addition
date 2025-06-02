@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode settings (optional, but often ignored)
+.vscode/
+
+# macOS and Linux system files (optional)
+.DS_Store
+*.swp
